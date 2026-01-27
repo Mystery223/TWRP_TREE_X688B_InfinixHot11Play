@@ -1,4 +1,4 @@
-# Android device tree for Infinix Hot 11 Play X688B (Infinix-X688B)
+# Android Twrp tree for Infinix Hot 11 Play X688B (Infinix-X688B)
 
 ## Device specifications (Infinix Hot 11 Play)
 
